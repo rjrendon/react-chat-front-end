@@ -8,9 +8,11 @@ const Join = () => {
   const [name, setName] = useState('');
   const [room, setRoom] = useState('');
 
+
+   
   return (
     
-    <div className="joinOuterContainer">  
+    <div className="joinOuterContainer">
      <img src={logo} className="App-logo" alt="logo" />
       <div className="joinInnerContainer">
         <h1 className="heading">Chat</h1>

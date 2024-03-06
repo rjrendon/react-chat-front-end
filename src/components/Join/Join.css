@@ -20,17 +20,12 @@ html, body {
     align-items: center;
     background-color: #1A1A1D;
 
-    @media screen and (max-width: 768px) {
-      .header{min-width:100%;}
-      #banner{min-width:100% !important;}
-      .whitebox_wrapper{min-width:100%;}
-      .index_wrapper{width:100%;}
-      display: block;
-  }
+  
   }
   
   .joinInnerContainer {
     width: 20%;
+
   }
   
   .joinInput {
